@@ -1,0 +1,13 @@
+C:\devbuild4\Structure\SchoolApplication\bin\Debug\netcoreapp3.1\SchoolApplication.exe
+C:\devbuild4\Structure\SchoolApplication\bin\Debug\netcoreapp3.1\SchoolApplication.deps.json
+C:\devbuild4\Structure\SchoolApplication\bin\Debug\netcoreapp3.1\SchoolApplication.runtimeconfig.json
+C:\devbuild4\Structure\SchoolApplication\bin\Debug\netcoreapp3.1\SchoolApplication.runtimeconfig.dev.json
+C:\devbuild4\Structure\SchoolApplication\bin\Debug\netcoreapp3.1\SchoolApplication.dll
+C:\devbuild4\Structure\SchoolApplication\bin\Debug\netcoreapp3.1\SchoolApplication.pdb
+C:\devbuild4\Structure\SchoolApplication\obj\Debug\netcoreapp3.1\SchoolApplication.csprojAssemblyReference.cache
+C:\devbuild4\Structure\SchoolApplication\obj\Debug\netcoreapp3.1\SchoolApplication.AssemblyInfoInputs.cache
+C:\devbuild4\Structure\SchoolApplication\obj\Debug\netcoreapp3.1\SchoolApplication.AssemblyInfo.cs
+C:\devbuild4\Structure\SchoolApplication\obj\Debug\netcoreapp3.1\SchoolApplication.csproj.CoreCompileInputs.cache
+C:\devbuild4\Structure\SchoolApplication\obj\Debug\netcoreapp3.1\SchoolApplication.dll
+C:\devbuild4\Structure\SchoolApplication\obj\Debug\netcoreapp3.1\SchoolApplication.pdb
+C:\devbuild4\Structure\SchoolApplication\obj\Debug\netcoreapp3.1\SchoolApplication.genruntimeconfig.cache
